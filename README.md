@@ -1,8 +1,3 @@
-### Hi there 👋
-
-I am Prannesh and am 
-
-
 ### Hi there 👋, my name is Prannesh
 #### I am a HPC System Engineer at Altair. 
 
