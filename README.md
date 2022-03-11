@@ -83,7 +83,7 @@ Languages and Frameworks
 ## Get In Touch 👇
 
 <p>
-<a href="prannesh.com "target="_blank">
+<a href="https://prannesh.com "target="_blank">
     <img src="https://img.shields.io/badge/-Potfolio-%23ff6685?style=for-the-badge&logo=Opsgenie" alt="Pritam Bera | Portfolio">
 </a>
 <a href="http://twitter.com/prannesh_54" target="_blank">
