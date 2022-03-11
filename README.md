@@ -29,7 +29,6 @@ Languages and Frameworks
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>  
 
----
 
 <h2>DataBase</h2>
 
