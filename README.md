@@ -16,7 +16,7 @@ You can find me either infront of my laptop or in [Twitter](https://twitter.com/
 <h2>🛠Tech Stack</h2>
 
 Languages and Frameworks
-<p align=center>
+<p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
@@ -32,7 +32,7 @@ Languages and Frameworks
 ---
 
 <h3>DataBase</h3>
-<p align=center>
+<p>
 <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
