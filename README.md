@@ -15,8 +15,6 @@ You can find me either infront of my laptop or in Twitter https://twitter.com/pr
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prannesh45&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
 
 
-![I am a Learner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png). [![Prannesh GitHub stats](https://github-readme-stats.vercel.app/api?username=Prannesh45)](https://github.com/Prannesh45/github-readme-stats)
-
 Surfing here and exploring every fields to begin my open-source contribution
 
 Skills: Python / Flutter / R / HTML / CSS / Java / C++ / Docker / OCI 
