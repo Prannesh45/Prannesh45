@@ -16,12 +16,12 @@ You can find me either infront of my laptop or in [Twitter](https://twitter.com/
 <h2>🛠Tech Stack</h2>
 
 Languages  
-
+<p align=center>
 <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-5849BE?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-E10098?style=for-the-badge&logo=github-actions&logoColor=white" />
-  
+</p>  
 
 
 🧰 Toolbox
