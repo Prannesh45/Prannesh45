@@ -80,4 +80,20 @@ Languages and Frameworks
  -->
 
 
-- 🔭 I’m currently working on myself
+## Get In Touch 👇
+
+<p>
+<a href="prannesh.com "target="_blank">
+    <img src="https://img.shields.io/badge/-Potfolio-%23ff6685?style=for-the-badge&logo=Opsgenie" alt="Pritam Bera | Portfolio">
+</a>
+<a href="http://twitter.com/prannesh_54" target="_blank">
+    <img src="https://img.shields.io/badge/-TWITTER-%09%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=17" alt="Prannesh | Twitter">
+</a>
+<a href="https://www.linkedin.com/in/prannesh/" target="_blank">
+    <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin" alt="Prannesh | LinikedIn">
+</a>
+<a href="https://instagram.com/prannesh_45" target="_blank">
+    <img src="https://img.shields.io/badge/-INSTAGRAM-%09%23e1306c?style=for-the-badge&logo=instagram&&logoColor=white&logoWidth=17" alt="Prannesh | Instagram">
+</a>
+<br>
+<br>
