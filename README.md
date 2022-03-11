@@ -42,8 +42,6 @@ Languages
  ![Github stats](https://github-readme-stats.vercel.app/api?username=Prannesh45)  
  -->
  
- <hr>
- 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prannesh45&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
