@@ -1,6 +1,5 @@
 <h3 align="center"> Hi there<img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="20" width="25">I'm Prannesh, Happy to Meet You</h3>
 
-<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/prannesh_54?style=social)](https://twitter.com/prannesh_54)
 [![GitHub followers](https://img.shields.io/github/followers/Prannesh45?style=social)](https://github.com/Prannesh54)
