@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there, I'm Prannesh<img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="10" width="20">I am Prannesh, Happy to Meet You</h3>
+<h3 align="center"> Hi there<img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="10" width="20">I'm Prannesh, Happy to Meet You</h3>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rishika5000?style=social)](https://twitter.com/Rishika5000)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKTBOLj2igRhsYX1RGdV0ww?style=social)](https://www.youtube.com/channel/UCKTBOLj2igRhsYX1RGdV0ww)
