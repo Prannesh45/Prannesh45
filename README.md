@@ -24,6 +24,7 @@ Languages
 <img alt="pandas" src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-4B0082?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft-azure.svg?style=for-the-badge&logo=microsoftazure&color=1572B6" />
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-F6820D?style=for-the-badge&logo=firebase&logoColor=white" />
 
      
