@@ -13,7 +13,8 @@ You can find me either infront of my laptop or in [Twitter](https://twitter.com/
 [![Twitter Follow](https://img.shields.io/twitter/follow/prannesh_54?style=social)](https://twitter.com/prannesh_54)
 [![GitHub followers](https://img.shields.io/github/followers/Prannesh45?style=social)](https://github.com/Prannesh45)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prannesh45&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
+---
+
 
 <h2>🛠Tech Stack</h2>
 
