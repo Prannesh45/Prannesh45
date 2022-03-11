@@ -72,10 +72,4 @@ Languages
  -->
 
 
-
-
-Surfing here and exploring every fields to begin my open-source contribution
-
-Skills: Python / Flutter / R / HTML / CSS / Java / C++ / Docker / OCI 
-
 - 🔭 I’m currently working on myself
