@@ -6,7 +6,7 @@
 
 <h2>About me</h2>
 
-#### Hi again👋, I am currently working as a HPC System Engineer at [Altair](https://www.linkedin.com/company/altair-engineering/). I like Coding in general and I believe everything can be learnt by googling. I like to explore evry opportunities in my hand which I belive will help me somewhere at some point of time. 
+#### Hi again👋, I am currently working as a HPC Engineer at [Altair](https://www.linkedin.com/company/altair-engineering/). I like Coding in general and I believe everything can be learnt by googling. I like to explore evry opportunities in my hand which I belive will help me somewhere at some point of time. 
 You can find me either infront of my laptop or in [Twitter](https://twitter.com/prannesh_54)
 
 
