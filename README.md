@@ -31,7 +31,8 @@ Languages and Frameworks
 
 ---
 
-<h3>DataBase</h3>
+<h2>DataBase</h2>
+
 <p>
 <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
