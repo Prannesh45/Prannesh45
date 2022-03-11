@@ -7,7 +7,13 @@
 ### Hi there 👋, my name is Prannesh - This Readme is in Developement
 #### I am a HPC System Engineer at Altair. 
 
-If not 9-6, I either freelance as Data Scientist and assist new start-ups with Application Development. I enjoy exploring new stuffs and that is why i mainly choosed Tech as my career and Future. You can find me either infront of my laptop or in Twitter https://twitter.com/prannesh_54 
+<h2>About me</h2>
+
+#### Hi again👋, I am currently working as a HPC System Engineer at Altair. [LinkedIn](https://www.linkedin.com/company/altair-engineering/). I like Coding in general and I believe everything can be learnt by googling. I like to explore evry opportunities in my hand which I belive will help me somewhere at some point of time. 
+You can find me either infront of my laptop or in Twitter https://twitter.com/prannesh_54 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prannesh45&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
+
 
 ![I am a Learner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png). [![Prannesh GitHub stats](https://github-readme-stats.vercel.app/api?username=Prannesh45)](https://github.com/Prannesh45/github-readme-stats)
 
