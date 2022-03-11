@@ -2,7 +2,7 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/prannesh_54?style=social)](https://twitter.com/prannesh_54)
-[![GitHub followers](https://img.shields.io/github/followers/Prannesh54?style=social)](https://github.com/Prannesh54)
+[![GitHub followers](https://img.shields.io/github/followers/Prannesh45?style=social)](https://github.com/Prannesh45)
 
 ### Hi there 👋, my name is Prannesh - This Readme is in Developement
 #### I am a HPC System Engineer at Altair. 
