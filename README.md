@@ -50,14 +50,15 @@ Languages and Frameworks
 
  📶 Stats:<br><br>
  
- 
-<!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prannesh45&theme=dark&layout=compact&align=right&width=40%)](https://github.com/Prannesh45/github-readme-stats)
 
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/Prannesh45/count.svg?align=center)
 
+
+
+<!--  TOP LANGUAGES STATISTICS -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prannesh45&theme=dark&layout=compact&align=right&width=40%)](https://github.com/Prannesh45/github-readme-stats)
 
 <!-- GITHUB STATISTICS
  ![Github stats](https://github-readme-stats.vercel.app/api?username=Prannesh45)  
