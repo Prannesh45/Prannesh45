@@ -48,7 +48,7 @@ Languages and Frameworks
 
 ---
 
- 📶 Stats:<br><br>
+ 📶 Stats:<br>
  
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
