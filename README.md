@@ -11,7 +11,6 @@ You can find me either infront of my laptop or in [Twitter](https://twitter.com/
 
 ---
 
-
 <h2>🛠Tech Stack</h2>
 
 Languages and Frameworks
