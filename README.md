@@ -3,7 +3,7 @@
 
 <h2>About me</h2>
 
-#### Hi again👋, I am currently working as a HPC Systems/Cloud Engineer at [Altair](https://www.linkedin.com/company/altair-engineering/). I like Coding in general and I believe everything can be learnt by googling. I like to explore every opportunities in my hand which I belive will help me somewhere at some point of time. Open to Collaboration and new opportunities :)
+#### Hi again everyone👋, I am currently working as a HPC Systems/Cloud Engineer at [Altair](https://www.linkedin.com/company/altair-engineering/). I like Coding in general and I believe everything can be learnt by googling. I like to explore every opportunities in my hand which I belive will help me somewhere at some point of time. Open to Collaboration and new opportunities :)
 You can find me either infront of my laptop or in [Twitter](https://twitter.com/prannesh_54)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/prannesh_54?style=social)](https://twitter.com/prannesh_54)
